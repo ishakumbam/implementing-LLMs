@@ -1,4 +1,4 @@
-# WWT AI Solutions Consultant
+# AI Solutions Consultant
 
 A beautiful, modern AI consulting web app that analyzes company descriptions using Google's Gemini AI and provides structured business recommendations.
 
